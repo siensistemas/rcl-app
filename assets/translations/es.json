@@ -1,0 +1,22 @@
+{
+  "app_name": "RCL - Red Comercial Local",
+  "home": "Inicio",
+  "search": "Buscar",
+  "businesses": "Comercios",
+  "promotions": "Promociones",
+  "profile": "Perfil",
+  "settings": "Configuración",
+  "notifications": "Notificaciones",
+  "login": "Iniciar Sesión",
+  "register": "Registrarse",
+  "logout": "Cerrar Sesión",
+  "categories": "Categorías",
+  "featured_businesses": "Comercios Destacados",
+  "featured_promotions": "Promociones Destacadas",
+  "my_business": "Mi Comercio",
+  "my_coupons": "Mis Cupones",
+  "events": "Eventos",
+  "tourism": "Turismo",
+  "jobs": "Empleos",
+  "classifieds": "Clasificados"
+}

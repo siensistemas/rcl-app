@@ -1,0 +1,19 @@
+{
+  "app": {
+    "name": "RCL - Red Comercial Local",
+    "version": "1.0.0",
+    "defaultLanguage": "es",
+    "supportedLanguages": ["es", "en"]
+  },
+  "api": {
+    "timeout": 30000,
+    "retryAttempts": 3
+  },
+  "maps": {
+    "defaultZoom": 14,
+    "searchRadius": 5
+  },
+  "pagination": {
+    "itemsPerPage": 20
+  }
+}
